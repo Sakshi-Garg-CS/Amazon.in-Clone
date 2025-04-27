@@ -1,1 +1,1 @@
-# Amazon.in-Clone
+# Amazon-clone
